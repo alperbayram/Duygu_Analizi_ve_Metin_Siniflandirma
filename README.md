@@ -1,0 +1,2 @@
+# TurkishNLP
+doğal dil işleme
