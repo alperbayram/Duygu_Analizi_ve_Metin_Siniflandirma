@@ -6,6 +6,7 @@ Twitter verileri üzerinde Türkçe Bert modelleri kullanarak yapılan duygu ana
 
 | Adımlar  | Yaptıklarım | 
 | ------------- | ------------- |
+| Nr.0|Tüm kütüphaneleri Not defterimize ekledik|  
 | Nr.1|Tweetleri çektik|  
 | Nr.2 |Tweetleri Temizledik |  
 | Nr.3 |Tweetlerden kelime bulutu oluşturduk ve png olarak drive kaydettik | 
