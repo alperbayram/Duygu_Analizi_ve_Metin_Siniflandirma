@@ -9,7 +9,7 @@ Twitter verileri üzerinde Türkçe Bert modelleri kullanarak yapılan duygu ana
 | Nr.1|Tweetleri çektik|  
 | Nr.2 |Tweetleri Temizledik |  
 | Nr.3 |Tweetlerden kelime bulutu oluşturduk ve png olarak drive kaydettik | 
-| Nr.4 |duygu analizi için bert modellerini yükledik| 
+| Nr.4 |Duygu analizi için bert modellerini yükledik| 
 | Nr.5| Duygu analizi yaptık ve tabloya ekledik |  
 | Nr.6|Duygu analizi sonuçlarını gösterdik ve görselleştirdik|  
 | Nr.7 |Metin sınıflandırma için bert modellerini yükledik|  
